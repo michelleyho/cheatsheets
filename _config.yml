@@ -1,0 +1,12 @@
+title: Reference Commands
+author:
+  name: 'Michelle Ho'
+  email: 'michelle.y.ho@gmail.com'
+
+
+description:
+  Personal blog tracking commonly used commands for X 
+
+theme: minima
+minima:
+  skin: solarized-dark
